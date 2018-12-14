@@ -1,1 +1,3 @@
 # LibTool
+
+npm install
